@@ -1,0 +1,17 @@
+Compararea centrelor logistice
+Ziua: 15
+
+Centrul 1
+Rata de livrare: 94.00 %
+Rata livrarilor la timp: 93.00 %
+Cost mediu / colet livrat: 7.00 lei
+
+Centrul 2
+Rata de livrare: 95.00 %
+Rata livrarilor la timp: 96.00 %
+Cost mediu / colet livrat: 7.50 lei
+
+Comparatie
+Cea mai mare rata de livrare: Centrul 2 / 95.00 %
+Cea mai mare rata a livrarilor la timp: Centrul 2 / 96.00 %
+Cel mai mic cost mediu: Centrul 1 / 7.00 lei

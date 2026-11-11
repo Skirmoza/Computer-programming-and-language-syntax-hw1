@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\Tema1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6966AB1-F0E0-4A3D-AD37-5300AD9343AB}|Tema1.vcxproj|D:\\C\u002B\u002B\\Tema1\\tema1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6966AB1-F0E0-4A3D-AD37-5300AD9343AB}|Tema1.vcxproj|solutionrelative:tema1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6966AB1-F0E0-4A3D-AD37-5300AD9343AB}|Tema1.vcxproj|D:\\C\u002B\u002B\\Tema1\\comparatie.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6966AB1-F0E0-4A3D-AD37-5300AD9343AB}|Tema1.vcxproj|solutionrelative:comparatie.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6966AB1-F0E0-4A3D-AD37-5300AD9343AB}|Tema1.vcxproj|D:\\C\u002B\u002B\\Tema1\\centrul-2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6966AB1-F0E0-4A3D-AD37-5300AD9343AB}|Tema1.vcxproj|solutionrelative:centrul-2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6966AB1-F0E0-4A3D-AD37-5300AD9343AB}|Tema1.vcxproj|D:\\C\u002B\u002B\\Tema1\\centrul-1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6966AB1-F0E0-4A3D-AD37-5300AD9343AB}|Tema1.vcxproj|solutionrelative:centrul-1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "comparatie.txt",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\Tema1\\comparatie.txt",
+              "RelativeDocumentMoniker": "comparatie.txt",
+              "ToolTip": "D:\\C\u002B\u002B\\Tema1\\comparatie.txt",
+              "RelativeToolTip": "comparatie.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-11T09:29:46.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "centrul-2.txt",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\Tema1\\centrul-2.txt",
+              "RelativeDocumentMoniker": "centrul-2.txt",
+              "ToolTip": "D:\\C\u002B\u002B\\Tema1\\centrul-2.txt",
+              "RelativeToolTip": "centrul-2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-10T18:53:25.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "centrul-1.txt",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\Tema1\\centrul-1.txt",
+              "RelativeDocumentMoniker": "centrul-1.txt",
+              "ToolTip": "D:\\C\u002B\u002B\\Tema1\\centrul-1.txt",
+              "RelativeToolTip": "centrul-1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-10T18:53:09.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tema1.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\Tema1\\tema1.cpp",
+              "RelativeDocumentMoniker": "tema1.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\Tema1\\tema1.cpp",
+              "RelativeToolTip": "tema1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA2wGwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-10T18:49:19.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
